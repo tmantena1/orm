@@ -17,3 +17,5 @@ The goal of this assignment is to build the back end for an e-commerce site by m
 ```
 
 ## Walkthrough
+
+Check out this quick walkthrough of the app: (https://watch.screencastify.com/v/IgKazRUDREdXasJKut0b)
